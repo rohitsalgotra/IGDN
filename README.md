@@ -1,5 +1,5 @@
 # IGDN
-Info Grey Dwarf Naked Algorithm
+Info Gazzele Dwarf Naked Algorithm
 
 The repository consists of all the data associated with the proposed IGDN algorithm.
 Keep in mind:
